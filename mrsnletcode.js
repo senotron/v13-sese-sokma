@@ -14,8 +14,8 @@ const { joinVoiceChannel } = require('@discordjs/voice');
 
 client.on('ready', () => {  //MrSn
   joinVoiceChannel({ 
-channelId: "1088766869860786187", //MrSn
-guildId: "1055105621327888394",    //MrSn
-adapterCreator: client.guilds.cache.get("1055105621327888394").voiceAdapterCreator
+channelId: "SES KANALI İD", //MrSn
+guildId: "SUNUCU İD",    //MrSn
+adapterCreator: client.guilds.cache.get("SUNUCU İD").voiceAdapterCreator
     }); //MrSn
 }); //MrSn
