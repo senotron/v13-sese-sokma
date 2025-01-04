@@ -1,21 +1,21 @@
 {
-	"name": "mrsn",
-	"version": "1.0.0",
-	"description": "LetCode",
-	"main": "mrsnletcode.js",
-	"scripts": {
-		"start": "node mrsnletcode.js"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"@discordjs/builders": "^1.2.0",
-		"@discordjs/voice": "^0.11.0",
-		"discord.js": "^13.6.0"
-	},
-	"engines": {
-		"node": "16.x",
-		"npm": "7.x"
-	}
+  "name": "senotron",
+  "version": "1.0.0",
+  "description": "DESN & Odunchu",
+  "main": "senotron.js",
+  "scripts": {
+    "start": "node senotron.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/voice": "^0.11.0",
+    "discord.js": "^13.6.0"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  }
 }
