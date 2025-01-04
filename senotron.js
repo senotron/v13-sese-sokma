@@ -5,7 +5,7 @@ require("dotenv").config();
 const client = new Client({ intents: 519 });
 
 client.once("ready", async () => {
-  console.log("Bot Hizmete Hazır!");
+  console.log("Bot online!");
   client.user.setActivity("https://youtube.com/@s3notron", { type: "WATCHING" });
 
   const channelId = "SES KANALI ID";
